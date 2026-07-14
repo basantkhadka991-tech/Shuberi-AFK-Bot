@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "167.235.93.185",
-    "port": 20128,
+    "ip": "omelettesmp.falix.gg",
+    "port": 55824,
     "version": "",
     "try-creative": false
   },
